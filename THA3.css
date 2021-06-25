@@ -1,0 +1,28 @@
+body{
+    background-color: #438797;
+    /* background-color: #F88767; */
+    color: #252961;
+}
+
+.main{
+    border: 15px solid #F88767;
+    padding: 1rem 4rem 5rem 4rem;
+}
+.profile{
+    width: 65px;
+    height: 65px;
+    margin: -80px 0px 0px 250px;
+    padding: -50px;
+    border-radius: 100px;
+}
+.part1{
+    border-right:3px solid #F88767;
+    margin:0px 25rem 0px 0px;
+    padding: 0px 1.2rem 0px 0px;
+   
+}
+.part2{
+   
+    margin:-385px 0px 0px 30rem;
+
+}
