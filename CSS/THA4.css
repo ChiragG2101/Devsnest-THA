@@ -1,0 +1,52 @@
+body{
+    background-color: #5cb3c1;
+    color: #252961;
+}
+.strip{
+    position: absolute;
+    top: 3rem;
+    left: 18rem;
+    padding: 150px 150px 150px 150px;
+    border: 35px solid #F88767;
+    border-radius: 300px;
+}
+#inner{
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+    padding: 150px 150px 140px 140px;
+    border: 5px solid #252961;
+    border-radius: 300px;
+}
+#outer{
+    position: absolute;
+    top: -35px;
+    left: -40px;
+    padding: 185px 190px 178px 180px;
+    border: 5px solid #252961;
+    border-radius: 300px;
+}
+.line1{
+    position: absolute;
+    height: 120px;
+    border-left: 3px solid #F88767;
+    transform: rotate(-80deg);
+    top: 107.6px;
+    left: 210px;
+}
+.line2{
+    position: absolute;
+    height: 130px;
+    border-left: 3px solid #F88767;
+    transform: rotate(-60deg);
+    top: 60px;
+    left: 95px;
+}
+.line3{
+    position: absolute;
+    height: 130px;
+    border-left: 3px solid #F88767;
+    transform: rotate(60deg);
+    top: 60px;
+    left: 205px;
+}
